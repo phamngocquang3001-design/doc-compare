@@ -473,7 +473,7 @@ export default function App() {
               className="max-w-3xl mx-auto"
             >
               <div className="text-center mb-8">
-                <h2 className="text-3xl font-bold text-slate-900 mb-4">Đối chiếu chứng từ tự động dành cho KH Cường Hoàng Lê</h2>
+                <h2 className="text-3xl font-bold text-slate-900 mb-4">Đối chiếu chứng từ tự động dành cho Anh Cường Hoàng Lê</h2>
                 <p className="text-slate-600 text-lg">
                   Tải lên 2 đến 4 chứng từ của cùng một đơn hàng (Đơn đặt hàng, Phiếu xuất kho, Hóa đơn...). 
                   Hệ thống sẽ tự động nhận diện và tìm ra các điểm sai lệch.
